@@ -45,8 +45,7 @@ hr {
   }
   
   .info {
-    position:relative;
-    margin-top: 30px;
+      margin-top: 30px;
       border: none;
       background-color: #e2d5d5;
       margin-left: 12px;
